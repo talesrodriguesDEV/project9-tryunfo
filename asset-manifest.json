@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project9-tryunfo/static/css/main.7042b3f0.css",
+    "main.js": "/project9-tryunfo/static/js/main.6949a10c.js",
+    "static/media/pexels-michael-block-3225517.jpg": "/project9-tryunfo/static/media/pexels-michael-block-3225517.2470225eabd17f796f67.jpg",
+    "static/media/lobo.jpg": "/project9-tryunfo/static/media/lobo.1a58b73e7803b6bc2b22.jpg",
+    "static/media/pexels-lukas-1419923.jpg": "/project9-tryunfo/static/media/pexels-lukas-1419923.9fca1c91db4be74d6ac7.jpg",
+    "static/media/falcon.jpg": "/project9-tryunfo/static/media/falcon.9946b6d515a6120c8478.jpg",
+    "static/media/arara.jpg": "/project9-tryunfo/static/media/arara.e42409263f2e1e1a182b.jpg",
+    "static/media/panda.jpg": "/project9-tryunfo/static/media/panda.fbf823b283c8c5b2e606.jpg",
+    "static/media/gato.jpg": "/project9-tryunfo/static/media/gato.43e390c5db8b3da17bab.jpg",
+    "static/media/cobra.jpg": "/project9-tryunfo/static/media/cobra.ce377758baf7ff18e4fa.jpg",
+    "static/media/tuba.jpg": "/project9-tryunfo/static/media/tuba.a91ea9cb329f542b8bbd.jpg",
+    "static/media/aranha.jpg": "/project9-tryunfo/static/media/aranha.ccb76638dad75af20a9a.jpg",
+    "static/media/cachorro.jpg": "/project9-tryunfo/static/media/cachorro.9384fc2521f1d3d496f0.jpg",
+    "static/media/eu.jpeg": "/project9-tryunfo/static/media/eu.94fcf88f0cb64886e623.jpeg",
+    "index.html": "/project9-tryunfo/index.html",
+    "main.7042b3f0.css.map": "/project9-tryunfo/static/css/main.7042b3f0.css.map",
+    "main.6949a10c.js.map": "/project9-tryunfo/static/js/main.6949a10c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7042b3f0.css",
+    "static/js/main.6949a10c.js"
+  ]
+}
